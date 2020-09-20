@@ -1,0 +1,16 @@
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.exe
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.deps.json
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.runtimeconfig.json
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.runtimeconfig.dev.json
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.dll
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\bin\Debug\netcoreapp3.1\WinFormCoreTest.pdb
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.csprojAssemblyReference.cache
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.Form1.resources
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.csproj.GenerateResource.cache
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.AssemblyInfoInputs.cache
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.AssemblyInfo.cs
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.dll
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.pdb
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.genruntimeconfig.cache
+C:\Users\homeMSI\Documents\C# Projects\WF\WinFormCoreTest\obj\Debug\netcoreapp3.1\WinFormCoreTest.Properties.Resources.resources
